@@ -45,7 +45,7 @@ Evaluate model performance using appropriate metrics.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/bangalore-home-prices.git
+git clone https://github.com/shriyashshitole/House-Price-Predictor.git
 cd bangalore-home-prices
 
 Run the Jupyter Notebook to execute the analysis.  
