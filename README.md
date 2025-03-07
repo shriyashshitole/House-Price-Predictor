@@ -7,7 +7,7 @@ This project aims to predict home prices in Bangalore using a regression model. 
 ### 📥Dataset
 
 The dataset used in this project can be found here:
-Kaggle - Bengaluru House Price Data
+Kaggle - Bengaluru House Price Data  
 
 ### 🔧Steps Involved
 
@@ -25,21 +25,21 @@ Process and clean the total_sqft feature, handling range values and unit convers
 
 Train regression models to predict house prices.
 
-Evaluate model performance using appropriate metrics.
+Evaluate model performance using appropriate metrics.  
 
 ### 📃Dependencies
 
-##### Python
+##### **Python**
 
-##### Pandas
+##### **Pandas**
 
-##### NumPy
+##### **NumPy**
 
-##### Scikit-Learn
+##### **Scikit-Learn**
 
-##### Matplotlib
+##### **Matplotlib**
 
-##### Seaborn
+##### **Seaborn**  
 
 ### 🚀Usage
 
@@ -48,16 +48,15 @@ Clone the repository:
 git clone https://github.com/yourusername/bangalore-home-prices.git
 cd bangalore-home-prices
 
-Run the Jupyter Notebook to execute the analysis.
+Run the Jupyter Notebook to execute the analysis.  
 
 ### ✅Results
-
-The model is trained and evaluated on the dataset, and its accuracy is assessed using regression metrics such as RMSE and R-squared.
+The model is trained and evaluated on the dataset, and its accuracy is assessed using regression metrics such as RMSE and R-squared.  
 
 ### 🤝 Contributing
-Feel free to submit issues or pull requests!
+Feel free to submit issues or pull requests!  
 
 ### 📜License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License.  
 
 ##### Author: Shriyash Shitole 
